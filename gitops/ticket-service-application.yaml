@@ -22,7 +22,7 @@ metadata:
 spec:
   project: cloudops-bridge
   source:
-    repoURL: https://github.com/rithikkampa7-pixel/cloudops-bridge.git
+    repoURL: https://github.com/rkampa07/cloudops-bridge.git
     targetRevision: main
     path: kubernetes/ticket-service
     directory:
