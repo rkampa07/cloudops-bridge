@@ -11,7 +11,7 @@ Requires Python 3.10+ (`python3 --version`).
 Create an isolated Python environment, activate it (your prompt then shows `(.venv)`), and install the pinned app and test dependencies:
 
 ```bash
-git clone https://github.com/rithikkampa7-pixel/cloudops-bridge.git
+git clone https://github.com/rkampa07/cloudops-bridge.git
 cd cloudops-bridge
 python3 -m venv .venv
 source .venv/bin/activate

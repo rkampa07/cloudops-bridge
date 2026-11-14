@@ -12,7 +12,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 GITOPS = ROOT / "gitops"
-REPO_URL = "https://github.com/rithikkampa7-pixel/cloudops-bridge.git"
+REPO_URL = "https://github.com/rkampa07/cloudops-bridge.git"
 
 
 def load_all(path):

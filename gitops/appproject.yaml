@@ -14,7 +14,7 @@ metadata:
 spec:
   description: CloudOps Bridge local GitOps demo (ticket-service only).
   sourceRepos:
-    - https://github.com/rithikkampa7-pixel/cloudops-bridge.git
+    - https://github.com/rkampa07/cloudops-bridge.git
   destinations:
     - server: https://kubernetes.default.svc
       namespace: cloudops-bridge

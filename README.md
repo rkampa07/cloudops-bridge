@@ -194,7 +194,7 @@ Load and incident results are from a local single-node demonstration. More measu
 Get the code:
 
 ```bash
-git clone https://github.com/rithikkampa7-pixel/cloudops-bridge.git
+git clone https://github.com/rkampa07/cloudops-bridge.git
 cd cloudops-bridge
 ```
 

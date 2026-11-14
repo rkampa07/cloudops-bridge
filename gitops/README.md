@@ -142,7 +142,7 @@ It changes only how quickly a stuck rollout is *reported*. It doesn't roll anyth
 
 | Setting | Value | Why |
 |---|---|---|
-| `sourceRepos` | `https://github.com/rithikkampa7-pixel/cloudops-bridge.git` | Applications in the project can deploy only from this repository |
+| `sourceRepos` | `https://github.com/rkampa07/cloudops-bridge.git` | Applications in the project can deploy only from this repository |
 | `destinations` | `cloudops-bridge` namespace of the in-cluster API server | Nothing can be deployed to `monitoring`, `kube-system` or `argocd` through this project |
 | `clusterResourceWhitelist` | empty | No cluster-scoped resources (namespaces, ClusterRoles, CRDs) |
 | `namespaceResourceWhitelist` | Deployment, Service, HorizontalPodAutoscaler | Only what ticket-service uses. Secrets, ConfigMaps, Roles and every other kind are refused |
